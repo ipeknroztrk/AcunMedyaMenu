@@ -1,0 +1,52 @@
+﻿@model AcunMedyaMenu.Entities.Product // Değişiklik yapılacak.
+@{
+    ViewData["Title"] = "Yeni Ürün Ekle";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Yeni Ürün Ekleme Alanı</h4>
+            </div>
+        </div>
+        <div class="card-body">
+            <form method="post" action="@Url.Action("CreateProduct", "Product")" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="productName" class="form-label">Ürün Adı</label>
+                    <input type="text" class="form-control" id="productName" name="ProductName" required>
+                </div>
+                <div class="mb-3">
+                    <label for="description" class="form-label">Açıklama</label>
+                    <textarea class="form-control" id="description" name="Description" rows="3" required></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="imageUrl" class="form-label">Resim URL</label>
+                    <input type="text" class="form-control" id="imageUrl" name="ImageUrl" required>
+                </div>
+                <div class="mb-3">
+                    <label for="categoryId" class="form-label">Kategori</label>
+                    <select class="form-select" id="categoryId" name="CategoryId" required>
+                        <option value="">Kategori Seçiniz</option>
+                        @foreach (var category in ViewBag.Categories)
+                        {
+                            <option value="@category.CategoryId">@category.CategoryName</option>
+                        }
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label for="price" class="form-label">Fiyat (₺)</label>
+                    <input type="number" class="form-control" id="price" name="Price" step="0.01" min="0" required>
+                </div>
+                <div class="mb-3">
+                    <label for="status" class="form-label">Durum</label>
+                    <select class="form-select" id="status" name="Status" required>
+                        <option value="true">Aktif</option>
+                        <option value="false">Pasif</option>
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-primary">Ekle</button>
+            </form>
+        </div>
+    </div>
+</div>

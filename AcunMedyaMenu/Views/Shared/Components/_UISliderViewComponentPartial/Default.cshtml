@@ -1,0 +1,29 @@
+﻿
+@model List<AcunMedyaMenu.Entities.Slider>
+
+<div class="carousel">
+    <div class="container-fluid">
+        <div class="owl-carousel">
+            @foreach (var item in Model)
+            {
+                <div class="carousel-item">
+                    <div class="carousel-img">
+                        <img src="@item.ImageUrl" alt="Resim">
+                    </div>
+                    <div class="carousel-text">
+                        <h1>@item.Title <span>@item.Title2</span> </h1>
+                        <p>
+                            @item.Description
+                        </p>
+                        <div class="carousel-btn">
+                            <a class="btn custom-btn" href="">Menüyü Görüntüle</a>
+                            <a class="btn custom-btn" href="">Masa Rezervasyonu Yap</a>
+                        </div>
+                    </div>
+                </div>
+            }
+
+
+        </div>
+    </div>
+</div>

@@ -1,0 +1,39 @@
+﻿@model AcunMedyaMenu.Entities.Slider
+@{
+    ViewData["Title"] = "Slider Güncelleme";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Slider Güncelleme Alanı</h4>
+            </div>
+        </div>
+        <div class="card-body">
+            <form method="post" action="@Url.Action("UpdateSlider", "AdminPanel")" enctype="multipart/form-data">
+                <input type="hidden" name="Id" value="@Model.SliderId" />
+
+                <div class="mb-3">
+                    <label for="title" class="form-label">Başlık</label>
+                    <input type="text" class="form-control" id="title" name="Title" value="@Model.Title" required>
+                </div>
+                <div class="mb-3">
+                    <label for="title2" class="form-label">Başlık 2</label>
+                    <input type="text" class="form-control" id="title2" name="Title2" value="@Model.Title2" required>
+                </div>
+                <div class="mb-3">
+                    <label for="description" class="form-label">Açıklama</label>
+                    <textarea class="form-control" id="description" name="Description" rows="3" required>@Model.Description</textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="imageurl" class="form-label">Resim URL</label>
+                    <input type="text" class="form-control" id="imageurl" name="ImageUrl" value="@Model.ImageUrl" required>
+                </div>
+                <button type="submit" class="btn btn-primary">Güncelle</button>
+            </form>
+
+        </div>
+    </div>
+</div>

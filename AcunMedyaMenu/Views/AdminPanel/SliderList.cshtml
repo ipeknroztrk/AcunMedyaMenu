@@ -1,0 +1,65 @@
+﻿@model List<AcunMedyaMenu.Entities.Slider>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Slider Alanı</h4>
+                <form method="get" action="@Url.Action("CreateSlider", "AdminPanel")" class="ms-auto">
+                    <button type="submit" class="btn btn-primary btn-round">
+                        <i class="fa fa-plus"></i> Ekle
+                    </button>
+                </form>
+            </div>
+        </div>
+        <div class="card-body">
+            
+            
+
+            <div class="table-responsive">
+                <table id="add-row" class="display table table-striped table-hover">
+                    <thead>
+                        <tr>
+                            <th>Başlık</th>
+                            <th>Başlık 2</th>
+                            <th>Açıklama</th>
+                            <th>Resim Url</th>
+                            <th style="width: 10%">İşlemler</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Title</td>
+                                <td>@item.Title2</td>
+                                <td>@item.Description</td>
+                                <td><img src="@item.ImageUrl" style="width: 60px; height: 60px;" /></td>
+                                <td>
+                                    <div class="form-button-action">
+                                        <a href="@Url.Action("UpdateSlider", "AdminPanel", new { id = item.SliderId })" class="btn btn-link btn-primary btn-lg" data-bs-toggle="tooltip" title="Güncelle">
+                                            <i class="fa fa-edit"></i>
+                                        </a>
+
+                                        <a href="@Url.Action("DeleteSlider", "AdminPanel", new { id = item.SliderId })" class="btn btn-link btn-danger" data-bs-toggle="tooltip" title="Sil">
+                                            <i class="fa fa-times"></i>
+                                        </a>
+                                    </div>
+                                </td>
+
+                            </tr>
+                        }
+
+                    
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

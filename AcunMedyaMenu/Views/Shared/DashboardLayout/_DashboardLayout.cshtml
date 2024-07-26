@@ -1,0 +1,37 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+
+@await Component.InvokeAsync("_HeadDashboardViewComponents")
+
+<body>
+    <div class="wrapper">
+
+        @await Component.InvokeAsync("_SidebarDashboardComponentPartial")
+
+
+
+
+        @await Component.InvokeAsync("_NavbarDashboardComponentPartial")
+
+
+
+
+
+
+
+        @RenderBody();
+
+       
+
+
+
+    </div>
+
+
+    
+    @await Component.InvokeAsync("_FooterDashboardComponentPartial")
+    @await Component.InvokeAsync("_ScriptDashboardViewComponentPartial")
+
+</body>
+</html>

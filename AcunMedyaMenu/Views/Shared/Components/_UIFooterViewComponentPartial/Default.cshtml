@@ -1,0 +1,61 @@
+﻿@model List<AcunMedyaMenu.Entities.SocialMedia>
+
+<div class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-7">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="footer-contact">
+                            <h2>Adresimiz</h2>
+                            <p><i class="fa fa-map-marker-alt"></i> 22100 Edirne, Merkez</p>
+                            <p><i class="fa fa-phone-alt"></i>+90 554 125 83 81</p>
+                            <p><i class="fa fa-envelope"></i>acunmedya@gmail.com</p>
+                            <div class="footer-social">
+                                @if (Model != null && Model.Any())
+                                {
+                                    @foreach (var item in Model)
+                                    {
+                                        <a href="@item.Url" target="_blank"><i class="@item.Icon"></i></a>
+                                    }
+                                }
+                                else
+                                {
+                                    <p>Sosyal medya bağlantıları bulunamadı.</p>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="footer-link">
+                            <h2>Hızlı Linkler</h2>
+                            <a href="#">Kullanım Şartları</a>
+                            <a href="#">Gizlilik Politikası</a>
+                            <a href="#">Çerezler</a>
+                            <a href="#">Yardım</a>
+                            <a href="#">Sık Sorulan Sorular</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="footer-newsletter">
+                    <h2>Mail Bülteni</h2>
+                    <p>
+                        Alanında en uzman şeflerimizin ellerinden çıkan lezzetli Türk ve Dünya mutfağı lezzetlerinden haberdar olmak için hemen mail bültenimize kaydolun.
+                    </p>
+                    <div class="form">
+                        <input class="form-control" placeholder="Mail Adresiniz">
+                        <button class="btn custom-btn">Abone Ol</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="copyright">
+        <div class="container">
+            <p>Copyright &copy; <a href="#">Acun Medya Akademi Menu</a>, All Right Reserved.</p>
+            <p>Designed By <a href="https://htmlcodex.com">AcunMedya</a></p>
+        </div>
+    </div>
+</div>

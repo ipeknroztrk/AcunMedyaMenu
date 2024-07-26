@@ -1,0 +1,35 @@
+﻿@model List<AcunMedyaMenu.Entities.SocialMedia>
+@{
+    ViewData["Title"] = "Slider Ekleme";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Sosyal Medya Ekleme Alanı</h4>
+
+            </div>
+        </div>
+        <div class="card-body">
+            <form method="post" action="@Url.Action("CreateSocialMedia", "SocialMedia")" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="title" class="form-label">Başlık</label>
+                    <input type="text" class="form-control" id="title" name="Name" required>
+                </div>
+                <div class="mb-3">
+                    <label for="title" class="form-label">Url</label>
+                    <input type="text" class="form-control" id="title" name="Url" required>
+                </div>
+                <div class="mb-3">
+                    <label for="description" class="form-label">Icon</label>
+                    <input class="form-control" id="description" name="Icon" rows="3" required></input>
+                </div>
+                
+                <button type="submit" class="btn btn-primary">Ekle</button>
+
+            </form>
+        </div>
+    </div>
+</div>

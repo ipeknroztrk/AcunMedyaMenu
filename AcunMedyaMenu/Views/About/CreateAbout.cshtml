@@ -1,0 +1,40 @@
+﻿@model List<AcunMedyaMenu.Entities.About>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Hakkımızda Ekleme Alanı</h4>
+
+            </div>
+        </div>
+        <div class="card-body">
+            <form method="post" action="@Url.Action("CreateAbout", "About")" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="title" class="form-label">Başlık </label>
+                    <input type="text" class="form-control" id="title" name="Title" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="description" class="form-label">Açıklama</label>
+                    <textarea class="form-control" id="description" name="Description" rows="3" required></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="imageurl" class="form-label">Resim Yolu</label>
+                    <input class="form-control" id="imageurl" name="ImageUrl" rows="3" required></input>
+                </div>
+                <div class="mb-3">
+                    <label for="videourl" class="form-label">Video Yolu</label>
+                    <input class="form-control" id="videourl" name="VideoUrl" rows="3" required></input>
+                </div>
+
+
+                <button type="submit" class="btn btn-primary">Ekle</button>
+
+            </form>
+        </div>
+    </div>
+</div>

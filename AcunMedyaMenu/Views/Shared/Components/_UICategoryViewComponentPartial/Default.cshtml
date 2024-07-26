@@ -1,0 +1,24 @@
+﻿@model List<AcunMedyaMenu.Entities.Category>
+
+<div class="food">
+    <div class="container">
+        <div class="row align-items-center">
+
+            @foreach (var item in Model)
+            {
+                <div class="col-md-4">
+                    <div class="food-item">
+                        <i class="@item.Icon"></i>
+                        <h2>@item.CategoryName</h2>
+                        <p>
+                           @item.Description
+                        </p>
+                        <a href="">Menüyü Gör </a>
+                    </div>
+                </div>
+            }
+
+
+        </div>
+    </div>
+</div>

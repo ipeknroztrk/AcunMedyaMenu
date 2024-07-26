@@ -1,0 +1,78 @@
+﻿@model List<AcunMedyaMenu.Entities.SocialMedia>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+
+
+
+<style>
+    .custom-icon {
+        color: purple;
+        font-size: 24px;
+    }
+
+</style>
+
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Sosyal Medya </h4>
+                <form method="get" action="@Url.Action("CreateSocialMedia", "SocialMedia")" class="ms-auto">
+                    <button type="submit" class="btn btn-primary btn-round">
+                        <i class="fa fa-plus"></i> Ekle
+                    </button>
+                </form>
+            </div>
+        </div>
+        <div class="card-body">
+
+
+
+            <div class="table-responsive">
+                <table id="add-row" class="display table table-striped table-hover">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Başlık</th>
+                            <th>Icon </th>
+                           
+                            <th>Url</th>
+                            <th style="width: 10%">İşlemler</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td><i class="@item.Icon custom-icon"></i></td>
+
+                                <td>@item.Name</td>
+                                <td>@item.Icon</td>
+                                <td>@item.Url</td>
+
+                                <td>
+                                    <div class="form-button-action">
+                                        <a href="@Url.Action("UpdateSocialMedia", "SocialMedia", new { id = item.SocialMediaId })" class="btn btn-link btn-primary btn-lg" data-bs-toggle="tooltip" title="Güncelle">
+                                            <i class="fa fa-edit"></i>
+                                        </a>
+
+                                        <a href="@Url.Action("DeleteSocialMedia", "SocialMedia", new { id = item.SocialMediaId })" class="btn btn-link btn-danger" data-bs-toggle="tooltip" title="Sil">
+                                            <i class="fa fa-times"></i>
+                                        </a>
+                                    </div>
+                                </td>
+
+                            </tr>
+                        }
+
+
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

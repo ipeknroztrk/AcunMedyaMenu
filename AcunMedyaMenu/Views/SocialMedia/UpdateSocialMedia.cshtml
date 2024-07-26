@@ -1,0 +1,35 @@
+﻿@model AcunMedyaMenu.Entities.SocialMedia
+@{
+    ViewData["Title"] = "Social Media Update";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Social Media Update Area</h4>
+            </div>
+        </div>
+        <div class="card-body">
+            <form method="post" action="@Url.Action("UpdateSocialMedia", "SocialMedia")" enctype="multipart/form-data">
+                <input type="hidden" name="SocialMediaId" value="@Model.SocialMediaId" />
+
+                <div class="mb-3">
+                    <label for="title" class="form-label">Title</label>
+                    <input type="text" class="form-control" id="title" name="Name" value="@Model.Name" required>
+                </div>
+                <div class="mb-3">
+                    <label for="url" class="form-label">URL</label>
+                    <input type="text" class="form-control" id="url" name="Url" value="@Model.Url" required>
+                </div>
+                <div class="mb-3">
+                    <label for="icon" class="form-label">Icon</label>
+                    <input type="text" class="form-control" id="icon" name="Icon" value="@Model.Icon" required>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Update</button>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,56 @@
+﻿@model List<AcunMedyaMenu.Entities.Chef>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Şef Ekleme Alanı</h4>
+
+            </div>
+        </div>
+        <div class="card-body">
+            <form method="post" action="@Url.Action("CreateChef", "Chef")" enctype="multipart/form-data">
+                <div class="mb-3">
+                    <label for="title" class="form-label">Şef Adı </label>
+                    <input type="text" class="form-control" id="title" name="ChefName" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="description" class="form-label">Başlık</label>
+                    <input class="form-control" id="description" name="Title" rows="3" required></input>
+                </div>
+                <div class="mb-3">
+                    <label for="imageurl" class="form-label">Resim Yolu</label>
+                    <input class="form-control" id="imageurl" name="ImageUrl" rows="3" required></input>
+                </div>
+                <div class="mb-3">
+                    <label for="status" class="form-label">Durum</label>
+                    <select class="form-select" id="status" name="Status" required>
+                        <option value="true">Aktif</option>
+                        <option value="false">Pasif</option>
+                    </select>
+                </div>
+
+
+                <button type="submit" class="btn btn-primary">Ekle</button>
+
+            </form>
+        </div>
+    </div>
+</div>
+ [HttpGet]
+        public IActionResult CreateChef()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult CreateChef(Chef chef)
+        {
+            _context.chefs.Add(chef);
+            _context.SaveChanges();
+            return RedirectToAction("ChefList");
+        }

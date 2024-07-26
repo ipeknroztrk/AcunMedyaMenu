@@ -1,0 +1,33 @@
+﻿@model AcunMedyaMenu.Entities.Category
+@{
+    ViewData["Title"] = "Kategori Güncelleme";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Kategori Güncelleme Alanı</h4>
+            </div>
+        </div>
+        <div class="card-body">
+            <form method="post" action="@Url.Action("UpdateCategory", "Category")" enctype="multipart/form-data">
+                <input type="hidden" name="Id" value="@Model.CategoryId" />
+                <div class="mb-3">
+                    <label for="title" class="form-label">Kategori Adı</label>
+                    <input type="text" class="form-control" id="title" name="CategoryName" value="@Model.CategoryName" required>
+                </div>
+                <div class="mb-3">
+                    <label for="icon" class="form-label">Icon</label>
+                    <input type="text" class="form-control" id="icon" name="Icon" value="@Model.Icon" required>
+                </div>
+                <div class="mb-3">
+                    <label for="description" class="form-label">Açıklama</label>
+                    <textarea class="form-control" id="description" name="Description" rows="3" required>@Model.Description</textarea>
+                </div>
+                <button type="submit" class="btn btn-primary">Güncelle</button>
+            </form>
+        </div>
+    </div>
+</div>

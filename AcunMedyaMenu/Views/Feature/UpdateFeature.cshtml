@@ -1,0 +1,41 @@
+﻿@model AcunMedyaMenu.Entities.Feature
+@{
+    ViewData["Title"] = "Update Feature";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Öne Çıkan Güncelleme Alanı</h4>
+            </div>
+        </div>
+        <div class="card-body">
+            <form method="post" action="@Url.Action("UpdateFeature", "Feature")" enctype="multipart/form-data">
+                <input type="hidden" name="Id" value="@Model.Id" />
+                <div class="mb-3">
+                    <label for="title" class="form-label">Başlık</label>
+                    <input type="text" class="form-control" id="title" name="Title" value="@Model.Title" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="description" class="form-label">Açıklama</label>
+                    <textarea class="form-control" id="description" name="Description" rows="3" required>@Model.Description</textarea>
+                </div>
+
+                <div class="mb-3">
+                    <label for="iconClass" class="form-label">İkon Sınıfı</label>
+                    <input type="text" class="form-control" id="iconClass" name="IconClass" value="@Model.IconClass" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="image" class="form-label">Resim Yolu</label>
+                    <input type="text" class="form-control" id="image" name="ImageUrl" value="@Model.ImageUrl" required>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Güncelle</button>
+            </form>
+        </div>
+    </div>
+</div>

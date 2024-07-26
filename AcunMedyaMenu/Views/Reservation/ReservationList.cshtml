@@ -1,0 +1,111 @@
+﻿@model List<AcunMedyaMenu.Entities.Booking>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                
+            </div>
+        </div>
+        <div class="col-md-12">
+            <div class="card card-round">
+                <div class="card-body">
+                    <div class="card-head-row card-tools-still-right">
+                        <div class="card-title">Rezervasyonlar</div>
+                        <div class="card-tools">
+                            <!-- Buraya ek fonksiyonlar ekleyebilirsiniz -->
+                        </div>
+                    </div>
+                    <div class="card-list py-4">
+                        @foreach (var item in Model)
+                        {
+                            <div class="item-list d-flex align-items-start mb-4 p-3 border rounded">
+                                <div class="avatar me-4">
+                                    <div class="avatar-box rounded-circle">
+                                        @item.Name.First()
+                                    </div>
+                                </div>
+                                <div class="info-user flex-grow-1">
+                                    <div class="info-row">
+                                        <span class="fw-bold">Adı:</span> @item.Name
+                                    </div>
+                                    <div class="info-row">
+                                        <span class="fw-bold">E-posta:</span> @item.Email
+                                    </div>
+                                    <div class="info-row">
+                                        <span class="fw-bold">Misafir Sayısı:</span> @item.GuestCount
+                                    </div>
+                                    <div class="info-row">
+                                        <span class="fw-bold">Telefon:</span> @item.Phone
+                                    </div>
+                                    <div class="info-row">
+                                        <span class="fw-bold">Açıklama:</span> @item.Description
+                                    </div>
+                                    <div class="info-row">
+                                        <span class="fw-bold">Rezervasyon Tarihi:</span> @item.BookingDate.ToString("dd MMM yyyy")
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .avatar-box {
+        width: 50px;
+        height: 50px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #ddd; /* Kutu arka plan rengi */
+        color: #333; /* Harf rengi */
+        font-size: 20px; /* Harf boyutu */
+        font-weight: bold; /* Harf kalınlığı */
+        border-radius: 50%; /* Kutu yuvarlak */
+        text-transform: uppercase; /* Harfleri büyük yapar */
+        border: 2px solid #007bff; /* Kenarlık rengi */
+    }
+
+    .item-list {
+        background-color: #f9f9f9;
+        border: 1px solid #e0e0e0;
+        border-radius: 8px;
+    }
+
+    .info-user {
+        flex-grow: 1;
+        padding-left: 15px;
+    }
+
+    .info-row {
+        margin-bottom: 8px;
+    }
+
+    .info-row span {
+        display: inline-block;
+        width: 150px; /* Bilgi başlıklarının sabit genişliği */
+        font-weight: bold;
+    }
+
+    .btn-icon {
+        font-size: 18px;
+        padding: 5px;
+    }
+
+    .card-title {
+        font-size: 1.25rem;
+    }
+
+    .btn-round {
+        border-radius: 25px;
+    }
+</style>

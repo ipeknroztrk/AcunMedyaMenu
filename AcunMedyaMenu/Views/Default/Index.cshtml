@@ -1,0 +1,47 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+@await Html.PartialAsync("PartialHead")
+
+<body>
+    @await Html.PartialAsync("PartialNavbar")
+
+    @await Component.InvokeAsync("_UISliderViewComponentPartial")
+
+
+   
+    @await Html.PartialAsync("CreateBooking")
+
+
+
+    @await Component.InvokeAsync("_UIAboutViewComponentPartial")
+    @await Component.InvokeAsync("_UIFeatureViewComponentPartial")
+
+    @await Component.InvokeAsync("_UICategoryViewComponentPartial")
+
+    @await Component.InvokeAsync("_MenuListComponentPartial")
+
+
+
+    @await Component.InvokeAsync("_ChefListComponentPartial")
+
+
+
+    @await Component.InvokeAsync("_UITestimonialViewComponentPartial")
+
+
+
+
+    @await Component.InvokeAsync("_UIContactViewComponentPartial")
+
+
+
+    @await Component.InvokeAsync("_UIFooterViewComponentPartial")
+
+
+    @await Html.PartialAsync("PartialScript")
+</body>
+</html>

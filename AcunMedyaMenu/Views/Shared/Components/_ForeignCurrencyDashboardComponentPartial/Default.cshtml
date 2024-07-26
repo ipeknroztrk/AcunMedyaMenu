@@ -1,0 +1,13 @@
+﻿@model AcunMedyaMenu.Models.ForeignCurrencyModel
+
+<div class="card">
+    <div class="card-body">
+        <div class="card-title fw-mediumbold">Döviz Kurları</div>
+        <p><strong>@Model.BaseCurrency</strong> Bazlı Kurlar:</p>
+        <ul>
+            <li>Euro (EUR): @Model.EuroRate.ToString("F2")</li>
+            <li>Dolar (USD): @Model.DollarRate.ToString("F2")</li>
+            <li>Pound (GBP): @Model.PoundRate.ToString("F2")</li>
+        </ul>
+    </div>
+</div>

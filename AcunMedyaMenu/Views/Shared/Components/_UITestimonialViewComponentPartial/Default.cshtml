@@ -1,0 +1,22 @@
+﻿@model List<AcunMedyaMenu.Entities.Testimonial>
+
+<div class="testimonial" id="testimonial">
+    <div class="container">
+        <h2 class="text-center">İnsanlar Bizim İçin Neler Dedi? </h2>
+        <div class="owl-carousel testimonials-carousel">
+            @foreach (var item in Model)
+            {
+                <div class="testimonial-item">
+                    <div class="testimonial-img">
+                        <img src="@item.Imageurl" alt="Image">
+                    </div>
+                    <p>
+                        @item.Description
+                    </p>
+                    <h2>@item.NameSurname</h2>
+                    <h3>@item.Title</h3>
+                </div>
+            }
+        </div>
+    </div>
+</div>

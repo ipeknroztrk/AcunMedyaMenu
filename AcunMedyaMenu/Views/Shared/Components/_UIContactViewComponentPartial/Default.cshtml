@@ -1,0 +1,76 @@
+﻿
+@model List<AcunMedyaMenu.Entities.SocialMedia>
+
+<div class="contact" id="contact">
+    <div class="container">
+        <div class="section-header text-center">
+            <p>Bize Yazın </p>
+            <h2>Sorularınız İçin Ulaşabilirisiniz.</h2>
+        </div>
+        <div class="row align-items-center contact-information">
+            <div class="col-md-6 col-lg-3">
+                <div class="contact-info">
+                    <div class="contact-icon">
+                        <i class="fa fa-map-marker-alt"></i>
+                    </div>
+                    <div class="contact-text">
+                        <h3>Adres</h3>
+                        <p>22100 Edirne, Merkez, Türkiye</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="contact-info">
+                    <div class="contact-icon">
+                        <i class="fa fa-phone-alt"></i>
+                    </div>
+                    <div class="contact-text">
+                        <h3>Telefon </h3>
+                        <p>+90 554 125 8381</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="contact-info">
+                    <div class="contact-icon">
+                        <i class="fa fa-envelope"></i>
+                    </div>
+                    <div class="contact-text">
+                        <h3>Email </h3>
+                        <p>acunmedya@gmail.com</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+                <div class="contact-info">
+                    <div class="contact-icon">
+                        <i class="fa fa-share"></i>
+                    </div>
+                    <div class="contact-text">
+                        <h3>Takip Edin </h3>
+                        <div class="contact-social">
+                            @if (Model != null && Model.Any())
+                            {
+                                @foreach (var item in Model)
+                                {
+                                    <a href="@item.Url" target="_blank"><i class="@item.Icon"></i></a>
+                                }
+                            }
+                            else
+                            {
+                                <p>Sosyal medya bağlantıları bulunamadı.</p>
+                            }
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        @await Component.InvokeAsync("_UIMessageViewComponentPartial", Model)
+
+
+
+    </div>
+</div>

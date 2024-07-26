@@ -1,0 +1,60 @@
+﻿@model SocialApiModel
+
+<div class="col-md-4">
+    <div class="card card-profile">
+        <div class="card-header"
+             style="background-image: url('assets/img/blogpost.jpg')">
+            <div class="profile-picture">
+                <div class="avatar avatar-xl">
+                    <img src="https://i.hizliresim.com/818668s.jpg"
+                         alt="..."
+                         class="avatar-img rounded-circle" />
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="user-profile text-center">
+                <div class="name">İpek Nur, 22</div>
+                <div class="job">.NET Developer</div>
+                <div class="desc"></div>
+                <div class="social-media">
+                    <a class="btn btn-info btn-twitter btn-sm btn-link"
+                       href="#">
+                        <span class="btn-label just-icon">
+                            <i class="icon-social-twitter"></i>
+                        </span>
+                    </a>
+                    <a class="btn btn-primary btn-sm btn-link"
+                       rel="publisher"
+                       href="https://www.linkedin.com/in/ipek-nur-%C3%B6zt%C3%BCrk-5b6bb9218/">
+                        <span class="btn-label just-icon">
+                            <i class="icon-social-linkedin"></i>
+                        </span>
+                    </a>
+                    <a class="btn btn-danger btn-sm btn-link"
+                       rel="publisher"
+                       href="#">
+                        <span class="btn-label just-icon">
+                            <i class="icon-social-instagram"></i>
+                        </span>
+                    </a>
+                </div>
+                <div class="view-profile">
+                    <a href="#" class="btn btn-secondary w-100">Profili Görüntüle</a>
+                </div>
+            </div>
+        </div>
+        <div class="card-footer">
+            <div class="row user-stats text-center">
+                <div class="col">
+                    <div class="number">@Model.Followers</div>
+                    <div class="title">Takipçi Sayısı</div>
+                </div>
+                <div class="col">
+                    <div class="number">@Model.Following</div>
+                    <div class="title">Takip Edilen</div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

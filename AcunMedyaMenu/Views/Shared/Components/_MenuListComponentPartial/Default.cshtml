@@ -1,0 +1,56 @@
+﻿@model List<AcunMedyaMenu.Entities.Product>
+
+<div class="menu" id="menu">
+    <div class="container">
+        <div class="section-header text-center">
+            <p>AcunMedya Akademi Menü</p>
+            <h2>Lezzetli Şef Yemekleri</h2>
+        </div>
+        <div class="menu-tab">
+            <ul class="nav nav-pills justify-content-center">
+                @foreach (var item in Model.Select(p => p.Category.CategoryName).Distinct())
+                {
+                    <li class="nav-item">
+                        <a class="nav-link @((item == Model.Select(p => p.Category.CategoryName).Distinct().First()) ? "active" : "")" data-toggle="pill" href="#@item.ToLowerInvariant()">@item</a>
+                    </li>
+                }
+            </ul>
+        </div>
+
+        <br />
+
+        <div class="tab-content">
+            @foreach (var category in Model.Select(p => p.Category.CategoryName).Distinct())
+            {
+                <div id="@category.ToLowerInvariant()" class="container tab-pane fade @((category == Model.Select(p => p.Category.CategoryName).Distinct().First()) ? "show active" : "")">
+                    <div class="row">
+                        <div class="col-lg-7 col-md-12">
+                            @foreach (var item in Model.Where(p => p.Category.CategoryName == category))
+                            {
+                                <div class="menu-item">
+                                    <div class="menu-img">
+                                        <img src="@item.ImageUrl" alt="Image" >
+                                    </div>
+                                    <div class="menu-text">
+                                        <h3><span>@item.ProductName</span> <strong>@item.Price ₺</strong></h3>
+                                        <p>@item.Description</p>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+
+
+
+                        <div class="col-lg-5 d-none d-lg-block">
+                            @if (Model.Where(p => p.Category.CategoryName == category).Any())
+                            {
+                                <img src="@Model.Where(p => p.Category.CategoryName == category).FirstOrDefault().ImageUrl" alt="Image" style="height:500px" class="img-fluid">
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+
+    </div>
+</div>

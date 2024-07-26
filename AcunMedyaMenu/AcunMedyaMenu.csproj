@@ -1,0 +1,129 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Views\Default\" />
+    <None Remove="Entities\" />
+    <None Remove="Context\" />
+    <None Remove="ViewComponents\" />
+    <None Remove="Views\Shared\Components\" />
+    <None Remove="Views\Shared\Components\_MenuListComponentPartial\" />
+    <None Remove="Views\Shared\Components\_ChefListComponentPartial\" />
+    <None Remove="Views\Dashboard\" />
+    <None Remove="ViewComponents\DashboardViewComponent\" />
+    <None Remove="Views\Shared\Components\_HeadDashboardViewComponents\" />
+    <None Remove="Views\Shared\Components\_SidebarDashboardComponentPartial\" />
+    <None Remove="Views\Shared\Components\_NavbarDashboardComponentPartial\" />
+    <None Remove="Views\Shared\Components\_StatisticsDashboardComponentPartial\" />
+    <None Remove="Views\Shared\Components\_ChartDashboardComponentPartial\" />
+    <None Remove="Views\Shared\Components\_GeoLocationDashboardComponentPartial\" />
+    <None Remove="Views\Shared\Components\_LastReservationDashboardComponentPartial\" />
+    <None Remove="Views\Shared\Components\_LastOrderDashboardComponentPartial\" />
+    <None Remove="ViewComponents\UIViewComponent\" />
+    <None Remove="Views\Shared\Components\_UISliderViewComponentPartial\" />
+    <None Remove="Views\Shared\Components\_UIFeatureViewComponentPartial\" />
+    <None Remove="Views\Shared\Components\_UICategoryViewComponentPartial\" />
+    <None Remove="Views\Shared\Components\_UITestimonialViewComponentPartial\" />
+    <None Remove="Views\Shared\Components\_FooterDashboardComponentPartial\" />
+    <None Remove="Views\Shared\Components\_ScriptDashboardViewComponentPartial\" />
+    <None Remove="Views\Shared\DashboardLayout\" />
+    <None Remove="Views\AdminPanel\" />
+    <None Remove="Views\Category\" />
+    <None Remove="Views\Product\" />
+    <None Remove="Views\Shared\Components\_UIAboutViewComponentPartial\" />
+    <None Remove="Views\About\" />
+    <None Remove="Views\Chef\" />
+    <None Remove="Views\Feature\" />
+    <None Remove="Views\Testimonial\" />
+    <None Remove="Views\Shared\Components\_UIFooterViewComponentPartial\" />
+    <None Remove="Views\Shared\Components\_UIContactViewComponentPartial\" />
+    <None Remove="Views\SocialMedia\" />
+    <None Remove="Views\Shared\Components\_UIMessageViewComponentPartial\" />
+    <None Remove="Views\Message\" />
+    <None Remove="Views\Login\" />
+    <None Remove="Views\Shared\UILayout\" />
+    <None Remove="Views\Statistic\" />
+    <None Remove="Views\CustomizerCard\" />
+    <None Remove="Views\Shared\Components\_WeatherDashboardComponentPartial\" />
+    <None Remove="Views\Shared\Components\_SocialApiDashboardComponentPartial\" />
+    <None Remove="Views\Shared\Components\_MediumDashboardComponentPartial\" />
+    <None Remove="Views\Shared\Components\_ForeignCurrencyDashboardComponentPartial\" />
+    <None Remove="Views\Reservation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Views\Default\" />
+    <Folder Include="Entities\" />
+    <Folder Include="Context\" />
+    <Folder Include="ViewComponents\" />
+    <Folder Include="Views\Shared\Components\" />
+    <Folder Include="Views\Shared\Components\_MenuListComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_ChefListComponentPartial\" />
+    <Folder Include="Views\Dashboard\" />
+    <Folder Include="ViewComponents\DashboardViewComponent\" />
+    <Folder Include="Views\Shared\Components\_HeadDashboardViewComponents\" />
+    <Folder Include="Views\Shared\Components\_SidebarDashboardComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_NavbarDashboardComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_StatisticsDashboardComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_ChartDashboardComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_GeoLocationDashboardComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_LastReservationDashboardComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_LastOrderDashboardComponentPartial\" />
+    <Folder Include="ViewComponents\UIViewComponent\" />
+    <Folder Include="Views\Shared\Components\_UISliderViewComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_UIFeatureViewComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_UICategoryViewComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_UITestimonialViewComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_FooterDashboardComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_ScriptDashboardViewComponentPartial\" />
+    <Folder Include="Views\Shared\DashboardLayout\" />
+    <Folder Include="Views\AdminPanel\" />
+    <Folder Include="Views\Category\" />
+    <Folder Include="Views\Product\" />
+    <Folder Include="Views\Shared\Components\_UIAboutViewComponentPartial\" />
+    <Folder Include="Views\About\" />
+    <Folder Include="Views\Chef\" />
+    <Folder Include="Views\Feature\" />
+    <Folder Include="Views\Testimonial\" />
+    <Folder Include="Views\Shared\Components\_UIFooterViewComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_UIContactViewComponentPartial\" />
+    <Folder Include="Views\SocialMedia\" />
+    <Folder Include="Views\Shared\Components\_UIMessageViewComponentPartial\" />
+    <Folder Include="Views\Message\" />
+    <Folder Include="Views\Login\" />
+    <Folder Include="Views\Shared\UILayout\" />
+    <Folder Include="Views\Statistic\" />
+    <Folder Include="Views\CustomizerCard\" />
+    <Folder Include="Views\Shared\Components\_WeatherDashboardComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_SocialApiDashboardComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_MediumDashboardComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_ForeignCurrencyDashboardComponentPartial\" />
+    <Folder Include="Views\Reservation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.31" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.31">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.31">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.29" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Entities\Booking.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Views\Product\UpdateProductcshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </None>
+  </ItemGroup>
+</Project>

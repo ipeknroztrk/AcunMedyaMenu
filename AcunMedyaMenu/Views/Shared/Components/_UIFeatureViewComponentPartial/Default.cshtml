@@ -1,0 +1,56 @@
+﻿@model List<AcunMedyaMenu.Entities.Feature>
+
+<div class="feature" id="feature">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-5">
+                <div class="section-header">
+                    <p>Neden Bizi Seçmelisiniz</p>
+                    <h2>Öne Çıkan Özelliklerimiz</h2>
+                </div>
+                <div class="feature-text">
+                    <div class="feature-img">
+                        <div class="row">
+                            @for (int i = 0; i < 4; i++)
+                            {
+                                <div class="col-6">
+                                    @if (i < Model.Count && !string.IsNullOrEmpty(Model[i].ImageUrl))
+                                    {
+                                        <img src="@Model[i].ImageUrl" alt="Image">
+                                    }
+                                    else
+                                    {
+                                        <img src="~/images/default-image.jpg" alt="Default Image">
+                                    }
+                                </div>
+                            }
+
+                        </div>
+                    </div>
+                    <p>
+                        Restoranımız, eşsiz lezzetler ve yüksek kaliteli malzemelerle hazırlanan yemekler sunmaktadır. Uzman şeflerimiz ve hızlı servisimiz ile misafirlerimize en iyi deneyimi yaşatmayı hedefliyoruz.
+                    </p>
+                    <a class="btn custom-btn" href="#booking">Masa Rezervasyonu</a>
+                </div>
+            </div>
+           
+            <div class="col-lg-7">
+                <div class="row">
+                    @foreach (var feature in Model)
+                    {
+                        <div class="col-sm-6">
+                            <div class="feature-item">
+                                <i class="@feature.IconClass"></i>
+                                <h3>@feature.Title</h3>
+                                <p>
+                                    @feature.Description
+                                </p>
+                            </div>
+                        </div>
+                    }
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>

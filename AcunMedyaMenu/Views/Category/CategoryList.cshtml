@@ -1,0 +1,88 @@
+﻿@model List<AcunMedyaMenu.Entities.Category>
+@{
+    ViewData["Title"] = "Kategori Listesi";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+<link rel="stylesheet" href="~/food-website-template/lib/flaticon/font/flaticon.css">
+
+<style>
+    .icon-color {
+        color: #007bff;
+        /* İstediğiniz rengi hexadecimal veya isim olarak belirtebilirsiniz */
+    }
+
+    .icon-container {
+        display: flex;
+        align-items: center;
+    }
+
+        .icon-container i {
+            font-size: 20px; /* İkon büyüklüğü */
+            font-weight: bold;
+            margin-top:10px;/* İkon kalınlığı */
+            margin-right: 10px; /* İkon ile metin arasındaki boşluk */
+        }
+
+    .action-icons {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+        margin-left: auto;
+    }
+
+        .action-icons a {
+            font-size: 16px;
+            text-decoration: none;
+        }
+
+        .action-icons .edit-icon {
+            color: #007bff;
+        }
+
+        .action-icons .delete-icon {
+            color: red;
+        }
+</style>
+
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Kategoriler </h4>
+                <form method="get" action="@Url.Action("CreateCategory", "Category")" class="ms-auto">
+                    <button type="submit" class="btn btn-primary btn-round">
+                        <i class="fa fa-plus"></i> Ekle
+                    </button>
+                </form>
+            </div>
+        </div>
+        <br />
+
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-sm-10 col-lg-4">
+                    <div class="card p-3">
+                        <div class="icon-container">
+                            <i class="@item.Icon icon-color"></i>
+                            <div>
+                                <h5 class="mb-1">
+                                    <b>@item.CategoryName</b>
+                                </h5>
+                                <small class="text-muted">@item.Description</small>
+                            </div>
+                            <div class="action-icons">
+                                <a href="@Url.Action("UpdateCategory", "Category", new { id = item.CategoryId })" class="edit-icon">
+                                    <i class="fa fa-edit"></i>
+                                </a>
+                                <a href="@Url.Action("DeleteCategory", "Category", new { id = item.CategoryId })" class="delete-icon" onclick="return confirm('Bu kategoriyi silmek istediğinizden emin misiniz?');">
+                                    <i class="fa fa-trash"></i>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>

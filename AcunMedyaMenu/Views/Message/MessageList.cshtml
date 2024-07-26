@@ -1,0 +1,44 @@
+﻿@model List<AcunMedyaMenu.Entities.Message>
+@{
+    ViewData["Title"] = "Gelen Mesajlar Listesi";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Gelen Mesajlar</h4>
+            </div>
+        </div>
+        <div class="card-body">
+            @foreach (var item in Model)
+            {
+                <div class="d-flex mb-3">
+                    <div class="avatar avatar-online">
+                        <span class="avatar-title rounded-circle border border-white bg-info">@item.Name.Substring(0, 1)</span>
+                    </div>
+                    <div class="flex-1 ms-3 pt-1">
+                        <h6 class="text-uppercase fw-bold mb-1">
+                            @item.Name
+                            @if (!string.IsNullOrEmpty(item.Subject))
+                            {
+                                <span class="text-warning ps-3">@item.Subject</span>
+                            }
+                        </h6>
+                        <span class="text-muted">
+                            @item.Content
+                        </span>
+                    </div>
+                    <div class="float-end pt-1">
+                        <small class="text-muted">@item.DateSent.ToString("HH:mm tt")</small>
+                    </div>
+                </div>
+                <div class="separator-dashed"></div>
+            }
+            @if (Model.Count == 0)
+            {
+                <p>Gelen mesaj bulunmamaktadır.</p>
+            }
+        </div>
+    </div>
+</div>

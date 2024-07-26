@@ -1,0 +1,63 @@
+﻿@model List<AcunMedyaMenu.Entities.About>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Ürün Listesi</h4>
+                <form method="get" action="@Url.Action("CreateAbout", "About")" class="ms-auto">
+                    <button type="submit" class="btn btn-primary btn-round">
+                        <i class="fa fa-plus"></i> Ekle
+                    </button>
+                </form>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table id="About-table" class="display table table-striped table-hover">
+                    <thead>
+                        <tr>
+                            <th>Başlık </th>
+                            <th>Açıklama</th>
+                            <th>Resim Url</th>
+                            <th>Video Url</th>
+                           
+
+                            <th style="width: 10%">İşlemler</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.Title</td>
+                                <td>@item.Description</td>
+                                <td><img src="@item.ImageUrl" style="width: 60px; height: 60px;" /></td>
+                                <td><a href="@item.VideoUrl">Video Yolu</a></td>
+
+
+
+
+                                <td>
+                                    <div class="form-button-action">
+                                        <a href="@Url.Action("UpdateAbout", "About", new { id = item.AboutId })" class="btn btn-link btn-primary btn-lg" data-bs-toggle="tooltip" title="Güncelle">
+                                            <i class="fa fa-edit"></i>
+                                        </a>
+                                        <a href="@Url.Action("DeleteAbout", "About", new { id = item.AboutId })" class="btn btn-link btn-danger" data-bs-toggle="tooltip" title="Sil">
+                                            <i class="fa fa-times"></i>
+                                        </a>
+
+                                    </div>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

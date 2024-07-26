@@ -1,0 +1,67 @@
+﻿@model List<AcunMedyaMenu.Entities.Chef>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Şeflerimiz</h4>
+                <form method="get" action="@Url.Action("CreateChef", "Chef")" class="ms-auto">
+                    <button type="submit" class="btn btn-primary btn-round">
+                        <i class="fa fa-plus">Ekle</i>
+                    </button>
+                </form>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="card-title fw-mediumbold">Master Şeflerimiz</div>
+            <div class="card-list">
+                @foreach (var chef in Model)
+                {
+                    <div class="item-list">
+                        <div class="avatar">
+                            <img src="@chef.ImageUrl" alt="..." class="avatar-img rounded-circle" />
+                        </div>
+                        <div class="info-user ms-3">
+                            <div class="username">@chef.ChefName</div>
+                            <div class="status">@chef.Title</div>
+                        </div>
+                        <form method="post" action="@Url.Action("DeleteChef", "Chef")">
+                            <input type="hidden" name="chefId" value="@chef.ChefId" />
+                            <button type="submit" class="btn btn-icon btn-danger btn-round btn-s me-4">
+                                <i class="fa fa-trash"></i>
+                            </button>
+                        </form>
+                        <form method="get" action="@Url.Action("UpdateChef", "Chef")">
+                            <input type="hidden" name="chefId" value="@chef.ChefId" />
+                            <button type="submit" class="btn btn-icon btn-primary btn-round btn-s me-4">
+                                <i class="fa fa-edit"></i>
+                            </button>
+                        </form>
+                        @if (chef.Status)
+                        {
+                            <form method="post" action="@Url.Action("DeactivateChef", "Chef")">
+                                <input type="hidden" name="chefId" value="@chef.ChefId" />
+                                <button type="submit" class="btn btn-icon btn-warning btn-round btn-s me-4">
+                                    <i class="fa fa-toggle-on"></i>
+                                </button>
+                            </form>
+                        }
+                        else
+                        {
+                            <form method="post" action="@Url.Action("ActivateChef", "Chef")">
+                                <input type="hidden" name="chefId" value="@chef.ChefId" />
+                                <button type="submit" class="btn btn-icon btn-secondary btn-round btn-s me-4">
+                                    <i class="fa fa-toggle-off"></i>
+                                </button>
+                            </form>
+                        }
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>

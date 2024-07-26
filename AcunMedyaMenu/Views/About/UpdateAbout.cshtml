@@ -1,0 +1,40 @@
+﻿@model AcunMedyaMenu.Entities.About
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Hakkımızda Bilgilerini Güncelle</h4>
+            </div>
+        </div>
+        <div class="card-body">
+            <form method="post" action="@Url.Action("UpdateAbout", "About")" enctype="multipart/form-data">
+                <input type="hidden" name="Id" value="@Model.AboutId" />
+                <div class="mb-3">
+                    <label for="title" class="form-label">Başlık</label>
+                    <input type="text" class="form-control" id="title" name="Title" value="@Model.Title" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="description" class="form-label">Açıklama</label>
+                    <textarea class="form-control" id="description" name="Description" rows="3" required>@Model.Description</textarea>
+                </div>
+
+                <div class="mb-3">
+                    <label for="imageurl" class="form-label">Resim Yolu</label>
+                    <input type="text" class="form-control" id="imageurl" name="ImageUrl" value="@Model.ImageUrl" required>
+                </div>
+
+                <div class="mb-3">
+                    <label for="videourl" class="form-label">Video Yolu</label>
+                    <input type="text" class="form-control" id="videourl" name="VideoUrl" value="@Model.VideoUrl" required>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Güncelle</button>
+            </form>
+        </div>
+    </div>
+</div>

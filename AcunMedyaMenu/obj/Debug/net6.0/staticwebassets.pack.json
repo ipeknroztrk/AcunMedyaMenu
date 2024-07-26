@@ -1,0 +1,2301 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/obj/Debug/net6.0/scopedcss/projectbundle/AcunMedyaMenu.bundle.scp.css",
+      "PackagePath": "staticwebassets/AcunMedyaMenu.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/LICENSE.txt",
+      "PackagePath": "staticwebassets/food-website-template/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/READ-ME.txt",
+      "PackagePath": "staticwebassets/food-website-template/READ-ME.txt"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/about.html",
+      "PackagePath": "staticwebassets/food-website-template/about.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/blog.html",
+      "PackagePath": "staticwebassets/food-website-template/blog.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/booking.html",
+      "PackagePath": "staticwebassets/food-website-template/booking.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/contact.html",
+      "PackagePath": "staticwebassets/food-website-template/contact.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/css/style.css",
+      "PackagePath": "staticwebassets/food-website-template/css/style.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/feature.html",
+      "PackagePath": "staticwebassets/food-website-template/feature.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/food-website-template.jpg",
+      "PackagePath": "staticwebassets/food-website-template/food-website-template.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/about.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/about.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/blog-1.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/blog-1.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/blog-2.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/blog-2.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/blog-3.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/blog-3.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/blog-4.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/blog-4.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/carousel-1.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/carousel-1.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/carousel-2.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/carousel-2.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/carousel-3.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/carousel-3.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/feature-1.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/feature-1.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/feature-2.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/feature-2.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/feature-3.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/feature-3.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/feature-4.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/feature-4.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/menu-beverage-img.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/menu-beverage-img.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/menu-beverage.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/menu-beverage.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/menu-burger-img.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/menu-burger-img.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/menu-burger.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/menu-burger.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/menu-snack-img.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/menu-snack-img.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/menu-snack.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/menu-snack.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/page-header.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/page-header.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/post-1.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/post-1.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/post-2.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/post-2.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/post-3.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/post-3.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/post-4.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/post-4.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/post-5.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/post-5.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/single.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/single.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/team-1.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/team-1.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/team-2.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/team-2.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/team-3.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/team-3.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/team-4.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/team-4.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/testimonial-1.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/testimonial-1.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/testimonial-2.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/testimonial-2.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/testimonial-3.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/testimonial-3.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/testimonial-4.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/testimonial-4.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/img/user.jpg",
+      "PackagePath": "staticwebassets/food-website-template/img/user.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/index.html",
+      "PackagePath": "staticwebassets/food-website-template/index.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/js/main.js",
+      "PackagePath": "staticwebassets/food-website-template/js/main.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/animate/animate.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/animate/animate.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/animate/animate.min.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/animate/animate.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/easing/easing.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/easing/easing.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/easing/easing.min.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/easing/easing.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/flaticon/backup.txt",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/backup.txt"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/flaticon/font/Flaticon.eot",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/Flaticon.eot"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/flaticon/font/Flaticon.svg",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/Flaticon.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/flaticon/font/Flaticon.ttf",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/Flaticon.ttf"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/flaticon/font/Flaticon.woff",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/Flaticon.woff"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/flaticon/font/Flaticon.woff2",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/Flaticon.woff2"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/flaticon/font/_flaticon.scss",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/_flaticon.scss"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/flaticon/font/flaticon.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/flaticon.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/flaticon/font/flaticon.html",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/font/flaticon.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/flaticon/license/license.pdf",
+      "PackagePath": "staticwebassets/food-website-template/lib/flaticon/license/license.pdf"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/owlcarousel/LICENSE",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/owlcarousel/assets/ajax-loader.gif",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/owlcarousel/assets/owl.carousel.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.carousel.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/owlcarousel/assets/owl.carousel.min.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.carousel.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/owlcarousel/assets/owl.theme.default.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.theme.default.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/owlcarousel/assets/owl.theme.default.min.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.theme.default.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/owlcarousel/assets/owl.theme.green.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.theme.green.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/owlcarousel/assets/owl.theme.green.min.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.theme.green.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/owlcarousel/assets/owl.video.play.png",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/assets/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/owlcarousel/owl.carousel.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/owl.carousel.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/owlcarousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/owlcarousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets/food-website-template/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/tempusdominus/js/moment-timezone.min.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/tempusdominus/js/moment-timezone.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/tempusdominus/js/moment.min.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/tempusdominus/js/moment.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets/food-website-template/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/mail/contact.js",
+      "PackagePath": "staticwebassets/food-website-template/mail/contact.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/mail/contact.php",
+      "PackagePath": "staticwebassets/food-website-template/mail/contact.php"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/mail/jqBootstrapValidation.min.js",
+      "PackagePath": "staticwebassets/food-website-template/mail/jqBootstrapValidation.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/menu.html",
+      "PackagePath": "staticwebassets/food-website-template/menu.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/single.html",
+      "PackagePath": "staticwebassets/food-website-template/single.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/food-website-template/team.html",
+      "PackagePath": "staticwebassets/food-website-template/team.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/LICENSE",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/README.md",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/README.md"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/css/demo.css",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/css/demo.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/css/demo.css.map",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/css/demo.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/css/fonts.css",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/css/fonts.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/css/fonts.min.css",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/css/fonts.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/css/kaiadmin.css",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/css/kaiadmin.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/css/kaiadmin.css.map",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/css/kaiadmin.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/css/kaiadmin.min.css",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/css/kaiadmin.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/css/plugins.css",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/css/plugins.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/css/plugins.css.map",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/css/plugins.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/css/plugins.min.css",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/css/plugins.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-brands-400.eot",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-brands-400.eot"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-brands-400.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-brands-400.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-brands-400.ttf",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-brands-400.ttf"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-brands-400.woff",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-brands-400.woff"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-brands-400.woff2",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-brands-400.woff2"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-regular-400.eot",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-regular-400.eot"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-regular-400.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-regular-400.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-regular-400.ttf",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-regular-400.ttf"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-regular-400.woff",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-regular-400.woff"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-regular-400.woff2",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-regular-400.woff2"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-solid-900.eot",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-solid-900.eot"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-solid-900.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-solid-900.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-solid-900.ttf",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-solid-900.ttf"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-solid-900.woff",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-solid-900.woff"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-solid-900.woff2",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/fontawesome/fa-solid-900.woff2"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/simple-line-icons/Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/simple-line-icons/Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/simple-line-icons/Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/simple-line-icons/Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/simple-line-icons/Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/simple-line-icons/Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/summernote/summernote.eot",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/summernote/summernote.eot"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/summernote/summernote.ttf",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/summernote/summernote.ttf"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/summernote/summernote.woff",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/summernote/summernote.woff"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/fonts/summernote/summernote.woff2",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/fonts/summernote/summernote.woff2"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/arashmil.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/arashmil.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/bg-404.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/bg-404.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/blogpost.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/blogpost.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/chadengle.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/chadengle.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example1-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example1-300x300.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example1.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example1.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example10-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example10-300x300.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example10.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example10.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example11-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example11-300x300.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example11.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example11.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example12-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example12-300x300.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example12.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example12.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example2-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example2-300x300.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example2.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example2.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example3-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example3-300x300.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example3.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example3.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example4-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example4-300x300.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example4.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example4.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example5-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example5-300x300.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example5.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example5.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example6-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example6-300x300.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example6.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example6.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example7-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example7-300x300.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example7.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example7.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example8-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example8-300x300.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example8.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example8.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example9-300x300.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example9-300x300.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/example9.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/example9.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/logo.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/logo.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/logo1.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/logo1.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/logo2.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/logo2.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/logoinvoice.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/logoinvoice.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/product1.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/product1.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/product10.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/product10.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/product11.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/product11.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/product12.jpeg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/product12.jpeg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/product2.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/product2.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/product3.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/product3.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/product4.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/product4.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/product5.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/product5.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/product6.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/product6.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/product7.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/product7.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/examples/product8.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/examples/product8.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ad.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ad.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ae.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ae.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/af.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/af.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ag.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ag.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ai.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ai.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/al.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/al.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/am.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/am.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/an.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/an.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ao.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ao.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ar.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ar.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/as.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/as.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/at.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/at.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/au.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/au.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/aw.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/aw.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ax.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ax.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/az.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/az.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ba.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ba.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bb.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bb.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bd.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bd.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/be.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/be.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bf.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bf.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bg.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bg.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bh.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bh.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bi.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bi.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bj.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bj.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bm.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bm.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bn.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bn.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bo.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bo.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/br.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/br.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bs.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bs.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bt.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bt.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bv.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bv.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bw.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bw.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/by.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/by.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/bz.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/bz.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ca.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ca.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/catalonia.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/catalonia.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cc.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cc.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cd.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cd.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cf.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cf.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cg.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cg.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ch.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ch.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ci.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ci.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ck.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ck.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cl.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cl.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cm.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cm.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cn.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cn.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/co.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/co.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cr.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cr.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cs.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cs.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cu.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cu.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cv.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cv.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cx.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cx.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cy.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cy.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/cz.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/cz.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/de.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/de.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/dj.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/dj.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/dk.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/dk.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/dm.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/dm.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/do.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/do.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/dz.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/dz.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ec.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ec.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ee.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ee.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/eg.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/eg.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/eh.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/eh.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/england.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/england.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/er.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/er.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/es.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/es.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/et.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/et.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/europeanunion.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/europeanunion.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/fam.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/fam.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/fi.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/fi.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/fj.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/fj.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/fk.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/fk.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/fm.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/fm.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/fo.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/fo.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/fr.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/fr.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ga.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ga.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gb.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gb.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gd.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gd.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ge.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ge.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gf.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gf.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gh.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gh.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gi.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gi.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gl.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gl.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gm.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gm.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gn.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gn.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gp.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gp.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gq.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gq.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gr.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gr.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gs.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gs.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gt.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gt.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gu.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gu.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gw.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gw.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/gy.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/gy.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/hk.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/hk.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/hm.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/hm.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/hn.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/hn.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/hr.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/hr.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ht.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ht.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/hu.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/hu.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/id.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/id.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ie.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ie.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/il.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/il.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/in.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/in.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/io.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/io.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/iq.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/iq.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ir.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ir.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/is.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/is.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/it.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/it.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/jm.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/jm.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/jo.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/jo.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/jp.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/jp.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ke.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ke.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/kg.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/kg.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/kh.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/kh.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ki.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ki.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/km.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/km.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/kn.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/kn.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/kp.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/kp.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/kr.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/kr.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/kw.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/kw.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ky.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ky.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/kz.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/kz.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/la.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/la.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/lb.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/lb.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/lc.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/lc.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/li.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/li.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/lk.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/lk.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/lr.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/lr.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ls.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ls.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/lt.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/lt.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/lu.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/lu.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/lv.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/lv.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ly.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ly.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ma.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ma.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mc.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mc.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/md.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/md.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/me.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/me.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mg.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mg.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mh.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mh.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mk.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mk.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ml.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ml.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mm.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mm.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mn.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mn.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mo.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mo.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mp.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mp.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mq.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mq.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mr.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mr.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ms.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ms.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mt.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mt.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mu.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mu.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mv.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mv.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mw.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mw.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mx.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mx.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/my.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/my.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/mz.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/mz.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/na.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/na.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/nc.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/nc.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ne.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ne.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/nf.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/nf.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ng.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ng.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ni.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ni.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/nl.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/nl.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/no.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/no.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/np.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/np.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/nr.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/nr.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/nu.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/nu.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/nz.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/nz.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/om.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/om.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/pa.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/pa.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/pe.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/pe.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/pf.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/pf.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/pg.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/pg.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ph.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ph.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/pk.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/pk.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/pl.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/pl.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/pm.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/pm.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/pn.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/pn.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/pr.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/pr.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ps.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ps.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/pt.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/pt.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/pw.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/pw.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/py.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/py.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/qa.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/qa.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/re.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/re.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/readme.txt",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/readme.txt"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ro.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ro.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/rs.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/rs.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ru.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ru.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/rw.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/rw.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sa.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sa.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sb.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sb.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sc.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sc.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/scotland.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/scotland.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sd.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sd.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/se.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/se.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sg.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sg.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sh.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sh.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/si.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/si.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sj.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sj.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sk.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sk.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sl.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sl.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sm.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sm.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sn.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sn.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/so.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/so.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sr.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sr.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/st.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/st.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sv.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sv.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sy.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sy.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/sz.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/sz.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tc.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tc.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/td.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/td.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tf.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tf.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tg.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tg.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/th.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/th.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tj.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tj.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tk.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tk.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tl.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tl.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tm.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tm.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tn.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tn.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/to.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/to.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tr.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tr.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tt.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tt.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tv.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tv.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tw.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tw.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/tz.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/tz.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ua.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ua.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ug.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ug.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/um.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/um.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/us.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/us.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/uy.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/uy.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/uz.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/uz.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/va.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/va.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/vc.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/vc.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ve.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ve.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/vg.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/vg.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/vi.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/vi.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/vn.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/vn.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/vu.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/vu.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/wales.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/wales.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/wf.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/wf.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ws.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ws.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/ye.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/ye.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/yt.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/yt.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/za.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/za.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/zm.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/zm.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/flags/zw.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/flags/zw.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/img-shadow.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/img-shadow.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/jm_denis.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/jm_denis.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo1.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo1.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo2.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo2.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo3.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo3.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo4.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo4.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo5.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo5.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo6.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo6.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo7.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo7.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo8.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo8.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo9.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/demo9.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/favicon.ico",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/favicon.ico"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/favicon.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/favicon.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/favicon.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/favicon.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/icon.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/icon.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/icon.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/icon.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/logo_dark.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/logo_dark.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/logo_dark.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/logo_dark.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/logo_documentation.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/logo_documentation.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/logo_light.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/logo_light.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/kaiadmin/logo_light.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/kaiadmin/logo_light.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/logoproduct.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/logoproduct.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/logoproduct2.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/logoproduct2.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/logoproduct3.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/logoproduct3.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/mlane.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/mlane.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/profile.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/profile.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/profile2.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/profile2.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/sauro.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/sauro.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/talha.jpg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/talha.jpg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_Hello_qnas.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_Hello_qnas.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_Taken_if77.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_Taken_if77.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_blank_canvas_3rbb.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_blank_canvas_3rbb.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_creative_team_r90h.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_creative_team_r90h.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_empty_xct9.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_empty_xct9.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_no_data_qbuo.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_no_data_qbuo.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_not_found_60pq.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_not_found_60pq.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_page_not_found_su7k.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_page_not_found_su7k.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_sign_in_e6hj.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_sign_in_e6hj.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_tabs_jf82.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_tabs_jf82.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_update_uxn2.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_update_uxn2.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_upgrade_06a0.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/undraw/undraw_upgrade_06a0.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/img/visa.svg",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/img/visa.svg"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/core/bootstrap.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/core/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/core/jquery-3.7.1.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/core/jquery-3.7.1.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/core/popper.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/core/popper.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/demo.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/demo.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/kaiadmin.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/kaiadmin.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/kaiadmin.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/kaiadmin.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/bootstrap-notify/bootstrap-notify.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/bootstrap-tagsinput/bootstrap-tagsinput.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/bootstrap-tagsinput/bootstrap-tagsinput.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/bootstrap-toggle/bootstrap-toggle.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/bootstrap-toggle/bootstrap-toggle.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/chart-circle/circles.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/chart-circle/circles.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/chart.js/chart.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/chart.js/chart.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/datatables/datatables.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/datatables/datatables.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/datepicker/bootstrap-datetimepicker.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/datepicker/bootstrap-datetimepicker.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/dropzone/dropzone.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/dropzone/dropzone.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/fullcalendar/fullcalendar.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/fullcalendar/fullcalendar.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/gmaps/gmaps.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/gmaps/gmaps.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/jquery-scrollbar/jquery.scrollbar.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/jquery.magnific-popup/jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/jquery.magnific-popup/jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/jquery.sparkline/jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/jquery.sparkline/jquery.sparkline.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/jquery.validate/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/jquery.validate/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/jsvectormap/jsvectormap.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/jsvectormap/jsvectormap.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/jsvectormap/world.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/jsvectormap/world.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/list.js/list.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/list.js/list.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/moment/moment.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/moment/moment.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/owl-carousel/ajax-loader.gif",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/owl-carousel/ajax-loader.gif"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/owl-carousel/owl.carousel.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/owl-carousel/owl.carousel.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/owl-carousel/owl.video.play.png",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/owl-carousel/owl.video.play.png"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/select2/select2.full.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/select2/select2.full.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/sortable/sortable.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/sortable/sortable.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/sticky-sidebar/sticky-sidebar.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/sticky-sidebar/sticky-sidebar.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/summernote/summernote-lite.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/summernote/summernote-lite.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/sweetalert/sweetalert.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/sweetalert/sweetalert.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/plugin/webfont/webfont.min.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/plugin/webfont/webfont.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/setting-demo.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/setting-demo.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/assets/js/setting-demo2.js",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/assets/js/setting-demo2.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/charts/charts.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/charts/charts.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/charts/sparkline.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/charts/sparkline.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/components/avatars.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/components/avatars.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/components/buttons.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/components/buttons.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/components/font-awesome-icons.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/components/font-awesome-icons.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/components/gridsystem.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/components/gridsystem.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/components/notifications.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/components/notifications.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/components/panels.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/components/panels.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/components/simple-line-icons.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/components/simple-line-icons.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/components/sweetalert.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/components/sweetalert.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/components/typography.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/components/typography.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/forms/forms.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/forms/forms.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/icon-menu.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/icon-menu.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/index.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/index.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/maps/googlemaps.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/maps/googlemaps.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/maps/jsvectormap.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/maps/jsvectormap.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/sidebar-style-2.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/sidebar-style-2.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/starter-template.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/starter-template.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/tables/datatables.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/tables/datatables.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/tables/tables.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/tables/tables.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/kaiadmin-lite-1.2.0/widgets.html",
+      "PackagePath": "staticwebassets/kaiadmin-lite-1.2.0/widgets.html"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/ipek/Desktop/AcunMedyaMenu/AcunMedyaMenu/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.AcunMedyaMenu.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.AcunMedyaMenu.props",
+      "PackagePath": "build\\AcunMedyaMenu.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.AcunMedyaMenu.props",
+      "PackagePath": "buildMultiTargeting\\AcunMedyaMenu.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.AcunMedyaMenu.props",
+      "PackagePath": "buildTransitive\\AcunMedyaMenu.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,61 @@
+﻿@model List<AcunMedyaMenu.Entities.Testimonial>
+@{
+    ViewData["Title"] = "Referanslarımız";
+    Layout = "~/Views/Shared/DashboardLayout/_DashboardLayout.cshtml";
+}
+
+<div class="container mt-10 pt-5">
+    <div class="card">
+        <div class="card-header">
+            <div class="d-flex align-items-center">
+                <h4 class="card-title">Referanslarımız </h4>
+                
+            </div>
+        </div>
+        <h3 class="text-center fw-bold mb-3">İnsanlar Hakkımızda Neler Söyledi?</h3>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <ul class="timeline">
+                        @for (int i = 0; i < Model.Count; i++)
+                        {
+                            var item = Model[i];
+                            if (i % 2 == 0)
+                            {
+                                <li>
+                                    <div class="timeline-badge">
+                                        <img src="@item.Imageurl" alt="Image" class="rounded-circle" width="50" height="50">
+                                    </div>
+                                    <div class="timeline-panel">
+                                        <div class="timeline-heading">
+                                            <h4 class="timeline-title">@item.NameSurname</h4>
+                                            <h6 class="timeline-title">@item.Title</h6>
+                                            <p>
+                                                <small class="text-muted">@item.Description</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            }
+                            else
+                            {
+                                <li class="timeline-inverted">
+                                    <div class="timeline-badge">
+                                        <img src="@item.Imageurl" alt="Image" class="rounded-circle" width="50" height="50">
+                                    </div>
+                                    <div class="timeline-panel">
+                                        <div class="timeline-heading">
+                                            <h4 class="timeline-title">@item.NameSurname</h4>
+                                            <h6 class="timeline-title">@item.Title</h6>
+                                            <p>
+                                                <small class="text-muted">@item.Description</small>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </li>
+                            }
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>

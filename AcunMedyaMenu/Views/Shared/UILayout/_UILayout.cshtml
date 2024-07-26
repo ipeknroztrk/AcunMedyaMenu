@@ -1,0 +1,21 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+@await Html.PartialAsync("~/Views/Default/PartialHead.cshtml")
+
+<body>
+    @await Html.PartialAsync("~/Views/Default/PartialNavbar.cshtml")
+
+    @RenderBody();
+
+
+
+    @await Component.InvokeAsync("_UIFooterViewComponentPartial")
+
+
+    @await Html.PartialAsync("~/Views/Default/PartialScript.cshtml")
+</body>
+</html>

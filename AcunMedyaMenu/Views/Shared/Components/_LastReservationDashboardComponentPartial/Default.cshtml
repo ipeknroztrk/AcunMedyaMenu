@@ -1,0 +1,48 @@
+﻿@model List<AcunMedyaMenu.Entities.Booking>
+
+<div class="col-md-4">
+    <div class="card card-round">
+        <div class="card-body">
+            <div class="card-head-row card-tools-still-right">
+                <div class="card-title">Rezervasyonlar</div>
+                <div class="card-tools">
+                    <!-- Buraya ek fonksiyonlar ekleyebilirsiniz -->
+                </div>
+            </div>
+            <div class="card-list py-4">
+                @foreach (var item in Model)
+                {
+                    <div class="item-list d-flex align-items-center mb-3">
+                        <div class="avatar me-3">
+                            <div class="avatar-box rounded-circle">
+                                @item.Name.First()
+                            </div>
+                        </div>
+                        <div class="info-user">
+                            <div class="username fw-bold">@item.Name</div>
+                            <div class="status text-muted">@item.Description</div>
+                            <div class="booking-date text-muted">@item.BookingDate.ToString("dd MMM yyyy")</div>
+                        </div>
+                      
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    .avatar-box {
+        width: 40px;
+        height: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #ddd; /* Kutu arka plan rengi */
+        color: #333; /* Harf rengi */
+        font-size: 18px; /* Harf boyutu */
+        font-weight: bold; /* Harf kalınlığı */
+        border-radius: 50%; /* Kutu yuvarlak */
+        text-transform: uppercase; /* Harfleri büyük yapar */
+    }
+
+</style>

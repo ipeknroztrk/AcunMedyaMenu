@@ -1,0 +1,93 @@
+﻿@model AcunMedyaMenu.Entities.Booking
+
+<div class="booking" id="booking">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-7">
+                <div class="booking-content">
+                    <div class="section-header">
+                        <p>Masa Rezerve Edin</p>
+                        <h2>Özel Günleriniz İçin Hemen Rezervasyon Yapın</h2>
+                    </div>
+                    <div class="about-text">
+                        <p>@ViewBag.p1</p>
+                        <p>@ViewBag.p2</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="booking-form">
+                    <form method="post" asp-action="CreateBooking" asp-controller="Default">
+                        <!-- Form Fields -->
+                        <div class="control-group">
+                            <div class="input-group">
+                                <input type="text" class="form-control" asp-for="Name" placeholder="Adınız Soyadınız" required="required" />
+                                <div class="input-group-append">
+                                    <div class="input-group-text"><i class="far fa-user"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <div class="input-group">
+                                <input type="email" class="form-control" asp-for="Email" placeholder="Email Adresiniz" required="required" />
+                                <div class="input-group-append">
+                                    <div class="input-group-text"><i class="far fa-envelope"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <div class="input-group">
+                                <input type="text" class="form-control" asp-for="Phone" placeholder="Telefon Numarası" required="required" />
+                                <div class="input-group-append">
+                                    <div class="input-group-text"><i class="fa fa-mobile-alt"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <div class="input-group date" id="date" data-target-input="nearest">
+                                <input type="text" class="form-control datetimepicker-input" asp-for="BookingDate" placeholder="Tarih Seçin" data-target="#date" data-toggle="datetimepicker" />
+                                <div class="input-group-append" data-target="#date" data-toggle="datetimepicker">
+                                    <div class="input-group-text"><i class="far fa-calendar-alt"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <div class="input-group time" id="time" data-target-input="nearest">
+                                <input type="text" class="form-control datetimepicker-input" asp-for="BookingTime" placeholder="Saat Seçin" data-target="#time" data-toggle="datetimepicker" />
+                                <div class="input-group-append" data-target="#time" data-toggle="datetimepicker">
+                                    <div class="input-group-text"><i class="far fa-clock"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="control-group">
+                            <div class="input-group">
+                                <input type="number" class="form-control" asp-for="GuestCount" placeholder="Kişi Sayısı" required="required" />
+                                <div class="input-group-append">
+                                    <div class="input-group-text"><i class="fa fa-chevron-down"></i></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <button class="btn custom-btn" type="submit">Rezervasyon Yap</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script>
+    $(document).ready(function() {
+        var successMessage = '@Html.Raw(TempData["SuccessMessage"])';
+        if (successMessage) {
+            Swal.fire({
+                icon: 'success',
+                title: 'Başarı',
+                html: successMessage,
+                confirmButtonText: 'Tamam'
+            });
+        }
+    });
+</script>
